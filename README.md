@@ -3,7 +3,7 @@
 kaderbozkaya/kaderbozkaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2> I am trying to learn English and software, so I write code with English comment lines. If you see a mistake in my English comment lines and code, please help me so that I can correct my mistake and improve myself. </h2>
+
 
 <h2 align="left">Connect with me:</h2>
 
